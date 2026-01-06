@@ -4,7 +4,7 @@ The app allows users to ask questions through a web interface and get responses 
 
 This project is designed to demonstrate core GenAI concepts such as prompt templates, LLM chaining, output parsing, and environment configuration.
 
-🚀 Features
+# 🚀 Features
 
 💬 Interactive chat-style question answering
 
@@ -18,7 +18,7 @@ This project is designed to demonstrate core GenAI concepts such as prompt templ
 
 🔐 Secure configuration using environment variables
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
